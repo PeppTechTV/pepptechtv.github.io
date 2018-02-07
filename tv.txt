@@ -4,4 +4,4 @@ https://{tfsauth}@tfs.pepperminttechnology.co.uk:4443/tfs/Peppermint%20Technolog
 https://{tfsauth}@tfs.pepperminttechnology.co.uk:4443/tfs/Peppermint%20Technology/PTL/_dashboards?activeDashboardId=c581edec-f0a0-48ae-aec6-e402fae94700|120000
 https://{tfsauth}@tfs.pepperminttechnology.co.uk:4443/tfs/Peppermint%20Technology/PTL/_dashboards#activeDashboardId=abed3cb6-004e-4457-834a-263ed015305a|120000
 http://pepptechtv.github.io|120000
-https://www.waze.com/livemap?zoom=13&lat=52.96606&lon=-1.16112|120000
+https://www.waze.com/livemap?zoom=12&lat=52.98472&lon=-1.14876|120000
